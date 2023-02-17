@@ -1,0 +1,33 @@
+[
+  {
+    "str": "\n  @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@700&display=swap');\n",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "DM Sans",
+          "fontStyle": "normal",
+          "fontWeight": 700
+        }
+      ]
+    }
+  },
+  {
+    "str": "\n  @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500;700&display=swap');\n",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "DM Sans",
+          "fontStyle": "normal",
+          "fontWeight": 500
+        },
+        {
+          "fontFamily": "DM Sans",
+          "fontStyle": "normal",
+          "fontWeight": 700
+        }
+      ]
+    }
+  }
+]
