@@ -2536,7 +2536,7 @@ const desktopModeProps = {
     },
     "TextBox140": {
       "custom": {
-        "text": "Pages"
+        "text": "Utility"
       },
       "callbacks": {
         "onClick": [
