@@ -35,7 +35,6 @@ height: 42.400px;
 }
 .p-Home.Flex24 {
 display: flex;
-height: 475.538px;
 }
 .p-Home.Flex25 {
 display: flex;
@@ -212,7 +211,6 @@ width: 300px;
 .p-Home.Flex47 {
 display: flex;
 padding-top: 100px;
-padding-left: ;
 background-color: #FFF9F3;
 align-items: flex-start;
 flex-grow: 1;
@@ -373,7 +371,6 @@ column-gap: 20px;
 display: flex;
 flex-direction: column;
 align-items: center;
-column-gap: ;
 row-gap: 10px;
 }
 .p-Home.Flex82 {
@@ -811,7 +808,7 @@ font-weight: 500;
 flex-direction: column;
 row-gap: 10px;
 padding-right: 5px;
-padding-left: 5px;
+
 }
 .p-Home.Flex156 {
 display: flex;
@@ -872,9 +869,7 @@ border-color: #cccccc;
 cursor: pointer;
 user-select: none;
 outline-style: none;
-width: ;
-height: ;
-font-family: ;
+font-family: DM Sans;
 }
 .p-Home.Button6 {
 color: #fff;
@@ -973,19 +968,10 @@ width: 200px;
 .p-Home.Image11 {
 width: 200px;
 }
-.p-Home.Image12 {
-;
-}
-.p-Home.Image13 {
-;
-}
 .p-Home.TextBox23 {
 font-family: DM Sans;
 font-weight: 700;
 font-size: 25px;
-}
-.p-Home.Image16 {
-;
 }
 .p-Home.TextBox31 {
 font-size: 20px;
@@ -1005,9 +991,6 @@ font-weight: 500;
 color: #FF7629;
 font-size: 17px;
 }
-.p-Home.Image17 {
-;
-}
 .p-Home.TextBox34 {
 font-size: 20px;
 font-family: DM Sans;
@@ -1023,9 +1006,6 @@ font-size: 17px;
 .p-Home.TextBox36 {
 font-size: 17px;
 color: #FF7629;
-}
-.p-Home.Image14 {
-;
 }
 .p-Home.TextBox24 {
 font-size: 20px;
@@ -1044,11 +1024,7 @@ color: #676767;
 .p-Home.TextBox26 {
 color: #FF7629;
 font-size: 17px;
-font-family: ;
 font-weight: 500;
-}
-.p-Home.Image15 {
-;
 }
 .p-Home.TextBox27 {
 font-family: DM Sans;
@@ -1080,7 +1056,7 @@ padding-right: 25px;
 font-size: 16px;
 border-radius: 50px;
 outline: none;
-font-weight: 400;
+font-weight: 500;
 text-align: center;
 border-width: 1px;
 border-style: solid;
@@ -1088,6 +1064,7 @@ border-color: #cccccc;
 cursor: pointer;
 user-select: none;
 outline-style: none;
+font-family: DM Sans;
 }
 .p-Home.Button12 {
 color: #fff;
@@ -1111,31 +1088,21 @@ font-family: DM Sans;
 .p-Home.Image18 {
 width: 460px;
 border-radius: 30px;
-height: ;
 }
 .p-Home.TextBox37 {
 font-size: 20px;
 font-family: DM Sans;
 font-weight: 500;
 }
-.p-Home.Image20 {
-;
-}
 .p-Home.TextBox41 {
 width: 50%;
 color: #8d8d8d;
-}
-.p-Home.Image21 {
-;
 }
 .p-Home.TextBox44 {
 color: #8d8d8d;
 }
 .p-Home.TextBox42 {
 color: #8d8d8d;
-}
-.p-Home.Image22 {
-;
 }
 .p-Home.TextBox38 {
 font-size: 32px;
@@ -1172,6 +1139,7 @@ border-color: #1890ff;
 cursor: pointer;
 user-select: none;
 outline-style: none;
+font-family: DM Sans;
 }
 .p-Home.Button14 {
 color: #000000;
@@ -1191,10 +1159,10 @@ border-color: #cccccc;
 cursor: pointer;
 user-select: none;
 outline-style: none;
+font-family: DM Sans;
 }
 .p-Home.TextBox45 {
 width: 50%;
-font-size: ;
 color: #727272;
 font-family: DM Sans;
 font-weight: 500;
@@ -1526,9 +1494,6 @@ height: 100%;
 overflow: hidden;
 visibility: hidden;
 }
-.p-Home.TextBox76 {
-;
-}
 .p-Home.Image33 {
 width: 50px;
 height: 50px;
@@ -1592,8 +1557,7 @@ padding-right: 5px;
 padding-left: 5px;
 padding-bottom: 5px;
 border-radius: 50px;
-background-color: #FF7629;
-color: ;
+background-color: #FF7629; 
 }
 .p-Home.Button23 {
 color: #fff;
@@ -1637,9 +1601,6 @@ outline-style: none;
 font-size: 32px;
 font-family: DM Sans;
 font-weight: 700;
-}
-.p-Home.TextBox85 {
-;
 }
 .p-Home.Image45 {
 width: 100%;
@@ -1770,7 +1731,6 @@ font-weight: 500;
 font-size: 16px;
 }
 .p-Home.TextBox99 {
-width: ;
 color: #717070;
 font-family: DM Sans;
 font-weight: 500;
@@ -1816,9 +1776,6 @@ user-select: none;
 font-family: DM Sans;
 width: 40%;
 }
-.p-Home.TextBox102 {
-;
-}
 .p-Home.Input2 {
 box-sizing: border-box;
 font-variant: tabular-nums;
@@ -1853,12 +1810,6 @@ border-style: solid;
 border-color: #d9d9d9;
 border-radius: 20px;
 }
-.p-Home.TextBox104 {
-;
-}
-.p-Home.TextBox109 {
-;
-}
 .p-Home.Input9 {
 box-sizing: border-box;
 font-variant: tabular-nums;
@@ -1878,9 +1829,6 @@ border-radius: 20px;
 height: 180px;
 text-align: center;
 align-self: auto;
-}
-.p-Home.TextBox105 {
-;
 }
 .p-Home.Input5 {
 box-sizing: border-box;
@@ -1916,12 +1864,6 @@ border-style: solid;
 border-color: #d9d9d9;
 border-radius: 20px;
 }
-.p-Home.TextBox106 {
-;
-}
-.p-Home.TextBox107 {
-;
-}
 .p-Home.Input7 {
 box-sizing: border-box;
 font-variant: tabular-nums;
@@ -1955,9 +1897,6 @@ border-width: 1px;
 border-style: solid;
 border-color: #d9d9d9;
 border-radius: 20px;
-}
-.p-Home.TextBox108 {
-;
 }
 .p-Home.TextBox110 {
 font-size: 32px;
