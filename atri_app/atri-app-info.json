@@ -2,18 +2,4 @@
   "prefixUrl": ""
 }
 
-{
-  "port": 4005,
-  "pythonPort": 4007,
-  "publicDir": "dist/app",
-  "pages": {
-      "/": {
-          "name": "Home"
-      }
-  },
-  "publicUrlAssetMap": {
-      "/app-assets": "../assets"
-  },
-  "organizationName": "<Shivani-Gupta123>",
-  "projectName": "<atri_restaurant_website>"
-}
+
